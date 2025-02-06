@@ -96,6 +96,8 @@
 
 #include "i2c-lcd1602.h"
 
+#include <rom/ets_sys.h>
+
 #define TAG "i2c-lcd1602"
 
 // Delays (microseconds)
